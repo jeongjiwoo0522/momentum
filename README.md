@@ -1,8 +1,6 @@
 # Momemtum
 
-A clone of the productivity chrome app on Vanilla JS
-
-
+A clone of the productivity chrome app [momentum](https://chrome.google.com/webstore/search/momentum?hl=ko) Vanilla JS
 
 ## Features
 
@@ -16,9 +14,7 @@ A clone of the productivity chrome app on Vanilla JS
 
 - [ ] Daily Photo
 
-- [x] Offline Support
-
-  
+- [ ] Offline Support
 
   
 
