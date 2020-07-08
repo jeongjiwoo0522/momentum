@@ -4,7 +4,7 @@ A clone of the productivity chrome app [momentum](https://chrome.google.com/webs
 
 ## Features
 
-- [ ] Clook
+- [x] Clook
 
 - [ ] To do List
 
@@ -22,5 +22,5 @@ A clone of the productivity chrome app [momentum](https://chrome.google.com/webs
 
   
 
-  
+  https://jeongjiwoo0522.github.io/momentum/index.html
 
