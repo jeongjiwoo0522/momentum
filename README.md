@@ -6,13 +6,13 @@ A clone of the productivity chrome app [momentum](https://chrome.google.com/webs
 
 - [x] Clook
 
-- [ ] To do List
+- [x] To do List
 
 - [ ] Weather
 
 - [ ] Daily Quote
 
-- [ ] Daily Photo
+- [x] Daily Photo
 
 - [ ] Offline Support
 
