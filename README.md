@@ -8,13 +8,13 @@ A clone of the productivity chrome app [momentum](https://chrome.google.com/webs
 
 - [x] To do List
 
-- [ ] Weather
+- [x] Weather
 
-- [ ] Daily Quote
+- [x] Daily Quote
 
 - [x] Daily Photo
 
-- [ ] Offline Support
+- [x] Offline Support
 
   
 
