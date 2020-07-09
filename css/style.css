@@ -76,3 +76,9 @@ input{
     z-index: -1;
     animation: fadeIn .5s linear;
 }
+.js-weather{
+    color: white;
+    font-size: 10px;
+    text-shadow: 2px 2px 4px lightgray;
+    text-align: right;
+}
