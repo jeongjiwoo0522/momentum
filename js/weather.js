@@ -4,7 +4,7 @@ const API_KEY = "fcb510e330b6c9eb80bf1c95efc16188";
 const COORDS = 'coords';
 
 function getWeather(lat, lon) {
-    fetch(
+    axios.get(
         `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${API_KEY}&units=metric`
         ).then(function(response){
             return response.json();
