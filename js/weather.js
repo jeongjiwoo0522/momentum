@@ -7,8 +7,7 @@ function getWeather(lat, lon) {
     axios.get(
         `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${API_KEY}&units=metric`
         ).then(function(response){
-            console.log(response);
-            return response.json();
+            return response.data;
         }).then(function(json) {
             const temperature = json.main.temp;
             const place = json.name;
